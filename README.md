@@ -10,22 +10,20 @@ I have worked with complex and custom modules, and provided support with technic
 
 Currently developing Big Data skills to perform in Machine Learning, Data Science and AI fields.
 ### Applications/Languages:
-• PeopleSoft 8.x
-• JD Edwards 7.3.3.4
-• JD Edwards EnterpriseOne 8.2
-• JD Edwards EnterpriseOne 9.2
-• webMethods 9.8
-• Arctools 3.00
-• Javascript
 • Python
 • Django
 • Big Data Ecosystem (Hadoop, Hive, Hue, Impala, Spark)
 • Computer Vision (OpenCV2)
 • Data Science (Pandas, numpy, matplotlib)
 • WebScraping (Selenium, Requests, BeautifulSoup)
+• Oracle SQL
+• Postgres
+• Javascript
 • AWS S3/EC2
 • Airflow 
-
+• JD Edwards EnterpriseOne 7.3.3.4 / 8.2 / 9.2
+• webMethods 9.8
+• Arctools 3.00
 <!--
 **fredbrowne/fredbrowne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
