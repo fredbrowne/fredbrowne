@@ -1,29 +1,40 @@
 ## Fred Browne
 
-### Python Developer | Data Engineer | JD Edwards Architect | JD Edwards Tech Lead | AI, Computer Vision, Machine Learning & Data Science enthusiast
+### Python Developer | Data Engineer | AI, Computer Vision, & Machine Learning enthusiast
 
-Professional with over 10 years of IT experience working with System Upgrades, Technical Development, Business Analysis, Data Conversion, Interfaces.
-Big Data, Machine Learning and AI enthusiast.
-Extensive working experience with JD Edwards ERP with technical development knowledge as well as functional for Distribution, MRP, Procurement, Inventory and Archiving.
+Data Engineer professional with over 13 years of IT experience working with Software Development, System Upgrades, Data Engineering, Business Analysis, ETL and Big Data. Extensive data experience with Oracle's JD Edwards EnterpriseOne for multiple modules such as Supply Chain, Manufacturing and Finance.
+Worked with multiple Data Pipelines from in-house software as well as open-source and commercial software. 
 
-I have worked with complex and custom modules, and provided support with technical analysis, in order to find and create solutions as well as provide performance and technical enhancements according to our client’s needs.
+Served as JD Edwards Architect in Application Architecture team as technical lead for the EnterpriseOne Upgrade to 9.2 where I helped identify and solve implementation and standard bugs.
 
-Currently developing Big Data skills to perform in Machine Learning, Data Science and AI fields.
-### Applications/Languages:
-• Python
-• Django
-• Big Data Ecosystem (Hadoop, Hive, Hue, Impala, Spark)
-• Computer Vision (OpenCV2)
-• Data Science (Pandas, numpy, matplotlib)
-• WebScraping (Selenium, Requests, BeautifulSoup)
-• Oracle SQL
-• Postgres
-• Javascript
-• AWS S3/EC2
-• Airflow 
-• JD Edwards EnterpriseOne 7.3.3.4 / 8.2 / 9.2
-• webMethods 9.8
-• Arctools 3.00
+I won a Challenge promoted by FIAP in partnership with EcoRodovias where I developed a sustainable AI Computer Vision solution using Python, OpenCV and a dashboard in Django that measures and alert when to cut the grass across the road, identified by images taken from cameras to avoid surpass the maximum height defined by the Government.
+
+Currently working as Data Engineer, responsible for ETL process, data modeling and data treatment to BI Visualization.
+
+I’m a fast learner, result-driven, accountable and knowledge seeker with a curious approach to new challenges.
+
+I work promoting teamwork, knowledge sharing and partnership with my co-workers and clients to deliver results at my highest level of capacity.
+
+Tech skills:
+
+•	Python
+•	SQL
+•	Git
+•	Airflow
+•	Terraform
+•	dbt
+•	Google Cloud Platform
+•	AWS
+•	Big Data Ecosystem (Hadoop, Hive, Hue, Impala)
+•	Apache Spark
+•	Agile
+•	JIRA
+•	Computer Vision (OpenCV2)
+•	Pandas, Numpy, Matplotlib
+•	Postgres, Oracle Database, MySQL
+•	Django/Flask
+•	JD Edwards EnterpriseOne 7.3, 8.2, 9.2
+
 <!--
 **fredbrowne/fredbrowne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
