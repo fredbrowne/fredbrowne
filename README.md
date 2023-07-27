@@ -1,51 +1,14 @@
 ## Fred Browne
 
-### Python Developer | Data Engineer | AI, Computer Vision, & Machine Learning enthusiast
+### Engineer Manager | Senior Data Engineer | AI, Computer Vision, & Machine Learning enthusiast
 
-Data Engineer professional with over 13 years of IT experience working with Software Development, System Upgrades, Data Engineering, Business Analysis, ETL and Big Data. Extensive data experience with Oracle's JD Edwards EnterpriseOne for multiple modules such as Supply Chain, Manufacturing and Finance.
-Worked with multiple Data Pipelines from in-house software as well as open-source and commercial software. 
+As an Engineering Manager with over 14 years of IT experience, I have a proven track record of delivering
+impactful results through my expertise in Data Engineering, Software Development, System Upgrades and Business Analysis. I have extensive data experience with Oracle's JD Edwards EnterpriseOne for multiple modules and have worked with multiple Data Pipelines from in-house software as well as open-source and commercial software.
 
-Served as JD Edwards Architect in Application Architecture team as technical lead for the EnterpriseOne Upgrade to 9.2 where I helped identify and solve implementation and standard bugs.
+As a JD Edwards Architect in the Application Architecture team, I served as the technical lead for the EnterpriseOne Upgrade to 9.2, where I successfully identified and solved implementation and standard bugs. I also won a Challenge promoted by FIAP in partnership with EcoRodovias, where I developed a sustainable AI Computer Vision solution using Python, OpenCV, and a dashboard in Django. This solution measures and alerts when to cut the grass across the road, identified by images taken from cameras to avoid surpassing the maximum height defined by the Government.
 
-I won a Challenge promoted by FIAP in partnership with EcoRodovias where I developed a sustainable AI Computer Vision solution using Python, OpenCV and a dashboard in Django that measures and alert when to cut the grass across the road, identified by images taken from cameras to avoid surpass the maximum height defined by the Government.
+Currently, as an Engineering Manager, I am responsible for leading a team of Data Engineers, providing guidance on ETL processes, data modeling, and data treatment to BI Visualization. I have a fast-learning ability and am result-driven, accountable, and always seeking knowledge with a curious approach to new challenges. I promote teamwork, knowledge sharing, and partnership with my co-workers and clients to deliver results at the highest level of capacity.
 
-Currently working as Data Engineer, responsible for ETL process, data modeling and data treatment to BI Visualization.
+My technical skills include proficiency in Python, SQL, Git, Airflow, Terraform, dbt, Google Cloud Platform, AWS, Data Modeling, Big Data Ecosystem (Hadoop, Hue), Apache Spark, Agile, JIRA, Computer Vision (OpenCV2), Pandas, Numpy, Matplotlib, LangChain, Prompt Engineering, Postgres, Oracle Database, MySQL, Django, and JD Edwards EnterpriseOne 7.3, 8.2, and 9.2.
 
-I’m a fast learner, result-driven, accountable and knowledge seeker with a curious approach to new challenges.
-
-I work promoting teamwork, knowledge sharing and partnership with my co-workers and clients to deliver results at my highest level of capacity.
-
-Tech skills:
-
-•	Python
-•	SQL
-•	Git
-•	Airflow
-•	Terraform
-•	dbt
-•	Google Cloud Platform
-•	AWS
-•	Big Data Ecosystem (Hadoop, Hive, Hue, Impala)
-•	Apache Spark
-•	Agile
-•	JIRA
-•	Computer Vision (OpenCV2)
-•	Pandas, Numpy, Matplotlib
-•	Postgres, Oracle Database, MySQL
-•	Django/Flask
-•	JD Edwards EnterpriseOne 7.3, 8.2, 9.2
-
-<!--
-**fredbrowne/fredbrowne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a focus on AI and Data Engineering, my leadership and technical expertise enable me to drive continuous innovation and deliver value to clients through effective strategic direction.
